@@ -2,20 +2,6 @@
 Minecraft asset files store in their hash and this make asset files to lose its own name and folder structure.
 This simple project restore asset file folder structure and name.
 
-# Installation
-JDK (>=8) is required to compile and execute.
-
-Run following command to build project.
-
-### Linux/Mac
-```
-./gradlew installDist
-```
-### Windows
-```
-./gradlew.bat installDist
-```
-
 # Execution
 Execute following command to run program
 
